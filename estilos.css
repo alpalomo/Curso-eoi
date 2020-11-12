@@ -1,0 +1,24 @@
+
+@font-face{
+    font-family: Emblema;
+    src: (fuentes/EmblemaOne-Regular.ttf)
+}
+
+}
+body{
+    font-family: Emblema;
+}
+
+          .green{
+              
+            color: green; font-size: 15pt; 
+          }
+          .red2 {
+              color: red;
+              font-sinze: 8pt;
+          }
+          .blue{
+              color: blue;
+              text-indent: 2em;
+              text-align: right;
+          }
